@@ -5,7 +5,7 @@ This is not meant to be a regular image editor.
 
 This is not fully complete but it will work with images of a certain size. It can easily be edited to fix this.
 
-It requires Openframeworks. Just put the project in apps/myapps/
+It requires Openframeworks. for windows Just put the project in apps/myapps/ for mac and linux you will have to generate a project.
 
 There is a color editor and load and save buttons.
 
