@@ -1,0 +1,70 @@
+﻿  ColorSelect.cpp
+  main.cpp
+  ofApp.cpp
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/main.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ColorSelect.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ColorSelect.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ColorSelect.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ColorSelect.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ColorSelect.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ColorSelect.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,20): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'src/ofApp.cpp')
+  
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\apps\myApps\AndyEdit1\src\ColorSelect.cpp(9,13): warning C4996: 'ofTrueTypeFont::loadFont': Use load instead
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\apps\myApps\AndyEdit1\src\ofApp.cpp(170,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\apps\myApps\AndyEdit1\src\ofApp.cpp(205,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\apps\myApps\AndyEdit1\src\ofApp.cpp(210,2): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+  AndyEdit1.vcxproj -> C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\apps\myApps\AndyEdit1\bin\AndyEdit1_debug.exe
+  
+  	                   2	C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\fmod\lib\vs\x64\
+  	  *EXTRA File 		 6942208	C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\apps\myApps\AndyEdit1\bin\FreeImage.dll
+  
+  	                   1	C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1826304	C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\apps\myApps\AndyEdit1\bin\fmod.dll
+  	  *EXTRA File 		 2041856	C:\Users\thund\OneDrive\Documents\of_v0.12.0_vs_release\apps\myApps\AndyEdit1\bin\fmodL.dll

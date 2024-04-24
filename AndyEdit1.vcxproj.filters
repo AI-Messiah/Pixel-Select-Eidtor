@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ScrollBar.cpp" />
+    <ClCompile Include="src\ColorSelect.cpp" />
+    <ClCompile Include="src\ImageHandler.cpp" />
+    <ClCompile Include="src\ImageSample.cpp" />
+    <ClCompile Include="src\FillPat.cpp" />
+    <ClCompile Include="src\Button.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ScrollBar.h" />
+    <ClInclude Include="src\ColorSelect.h" />
+    <ClInclude Include="src\ImageHandler.h" />
+    <ClInclude Include="src\ImageSample.h" />
+    <ClInclude Include="src\FillPat.h" />
+    <ClInclude Include="src\Button.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
